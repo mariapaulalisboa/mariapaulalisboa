@@ -3,7 +3,7 @@
 
 **`Desenvolvedora Front-End`**
 
-<p>Me chamo Maria Paula Lisboa, tenho 22 anos e sou natural de Goiânia. Eu sou desenvolvedora autoditada web Front-End, busco uma oportunidade maior de crescimento profissional para atuar no mercado na área de desenvolvimento web ou mobile.</p>
+<p>Me chamo Maria Paula Lisboa, tenho 22 anos e sou natural de Goiânia. Eu sou desenvolvedora autoditada, busco uma oportunidade maior de crescimento profissional para atuar no mercado na área de desenvolvimento web ou mobile.</p>
 
 ---
 
